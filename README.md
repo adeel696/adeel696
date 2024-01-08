@@ -5,8 +5,8 @@ My primary focus lies in PHP development, where I specialize in crafting custom 
 I am passionate about exploring and adopting new technologies, maintaining a proactive approach to stay updated in the dynamic field of software development. My versatile skill set allows me to contribute effectively to a wide range of projects.
 <br /><br />
 Complementing this expertise is my hands-on experience in telecommunications services, contributing to projects involving USSD, IVR, and VAS
-<br /><br /><br />
-<div align="center"><b>Love discovering/trying new technologies</b>b></div>
+<br /><br />
+<div align="center"><b>Love discovering/trying new technologies</b></div>
 
 
 
