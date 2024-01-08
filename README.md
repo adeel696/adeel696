@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I am a senior software engineer with a robust background in PHP development, specializing in custom PHP and the Laravel framework. My expertise extends to telecommunications services, where I have hands-on experience with USSD, IVR, and VAS services. Additionally, I have worked with ASP.NET Core, contributing to diverse projects. My proficiency in database management includes Oracle, MySQL, and PostgreSQL. I am passionate about exploring and adopting new technologies, maintaining a proactive approach to stay updated in the dynamic field of software development. My versatile skill set allows me to contribute effectively to a wide range of projects.
 
 <!--
 **adeel696/adeel696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
