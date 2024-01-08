@@ -1,10 +1,12 @@
-### <div align="center">Hi 👋 I am a senior software engineer with a robust background in development 👨‍💻👷🏻 </div>
-<br />
-My expertise extends to telecommunications services, where I have hands-on experience with USSD, IVR, and VAS services.
-<br />
+### <div align="center">Hi 👋 I am a seasoned software engineer, well-versed in a multitude of technology stacks 👨‍💻👷🏻 </div>
+<br /><br />
+My primary focus lies in PHP development, where I specialize in crafting custom solutions and leveraging the power of the Laravel framework
+<br /><br />
 I am passionate about exploring and adopting new technologies, maintaining a proactive approach to stay updated in the dynamic field of software development. My versatile skill set allows me to contribute effectively to a wide range of projects.
-<br />
-<div align="center">Love discovering/trying new technologies</div>
+<br /><br />
+Complementing this expertise is my hands-on experience in telecommunications services, contributing to projects involving USSD, IVR, and VAS
+<br /><br /><br />
+<div align="center"><b>Love discovering/trying new technologies</b>b></div>
 
 
 
